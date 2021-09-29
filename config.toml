@@ -1,0 +1,32 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "nix"
+
+[params]
+  Name = "Paul Matthews"
+  HeaderUsername = "paul"
+  HeaderHostname = "pdmxdd"
+  About = "Hey there! I'm Paul. I like programming, Linux, and DevOps. Professionaly, I design, create, manage, and often teach various tech curriculum. I am most experienced with DevOps curriculum specifically in the AWS realm, but also have experience with Azure. I have also taught a couple of introduction to web development courses that span Python, Flask, Java, Spring, and Node. This is a personal site that contains random stuff. Feel free to reach out to me by email. Welcome!"
+  ProfilePicture = ""
+  Email = "paul@paulmatthews.dev"
+  GithubID = "pdmxdd"
+  GitlabID = "pdmxdd"
+
+[menu]
+  [[menu.header]]
+    name = "professional-projects"
+    weight = 0
+    url = "/projects/professional"
+  [[menu.header]]
+    name = "personal-projects"
+    weight = 0
+    url = "/projects/personal"
+  [[menu.header]]
+    name = "learn"
+    weight = 0
+    url = "/learn"
+  [[menu.header]]
+    name = "resume"
+    weight = 0
+    url = "/resume"
