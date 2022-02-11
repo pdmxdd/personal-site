@@ -14,18 +14,18 @@ theme = "nix"
   GitlabID = "pdmxdd"
 
 [menu]
-  [[menu.header]]
-    name = "professional-projects"
-    weight = 0
-    url = "/projects/professional"
-  [[menu.header]]
-    name = "personal-projects"
-    weight = 0
-    url = "/projects/personal"
-  [[menu.header]]
-    name = "learn"
-    weight = 0
-    url = "/learn"
+  # [[menu.header]]
+  #   name = "professional-projects"
+  #   weight = 0
+  #   url = "/projects/professional"
+  # [[menu.header]]
+  #   name = "personal-projects"
+  #   weight = 0
+  #   url = "/projects/personal"
+  # [[menu.header]]
+  #   name = "learn"
+  #   weight = 0
+  #   url = "/learn"
   [[menu.header]]
     name = "resume"
     weight = 0
