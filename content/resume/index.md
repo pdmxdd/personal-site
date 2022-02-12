@@ -1,7 +1,8 @@
 ---
 title: Resume
 draft: false
-date: 2022-02-10T12:00:00
+date: 2022-02-10
+lastmod: 2022-02-11
 ---
 
 # Paul Matthews
@@ -103,7 +104,25 @@ CodeCamp Instructor: Taught the pre-existing [Introduction to Web Development](h
 
 ### University of Missouri St. Louis - B.A. Psychology 2015
 
+I thoroughly enjoyed my time at UMSL. Originally my goal of going back to school after working as a programmer was two fold *to complete a bachelor's degree* and to *build knowledge/skills around successfully performing interviews*.
+
+At the time my career aspirations were to combine my technical skills with my soft skills to work towards a solution many companies face **evaluating and hiring tech talent**. At the time my dream job was to work as a technical interviewer. Someone that could combine technical knowledge and skills with human resource knowledge and skills to more effectively evaluate candidates for technical positions. I was able to work towards a solution to this goal in my time at LaunchCode.
+
+{{% expand "I was able to work directly towards my aspiration throughout my tenure at LaunchCode. Click here to expand/collapse the story of my transition from UMSL to LaunchCode." %}}
+
+During my final semester at UMSL I became aware of a local startup non-profit called LaunchCode that seemed to be working in a similar space to my current aspirations. I applied for their program to be a candidate. If I passed the application and evaluation they could place me into a programming apprenticeship. I assumed LaunchCode might be able to adequately connect me with companies that would provide me the opportunity to continue growing my technical skills and/or let me start working in technical evaluations.
+
+LaunchCode advanced my application to their program and invited me to interview to evaluate if I would be a good candidate for their apprenticeship program. I passed their evaluation and was approved to be a part of their program and then the interviewer asked me what my ideal job would be, and shared with him my aspirations as listed above.
+
+He chuckled and remarked that I was looking for a job that is similar to what he is currently doing. I told him I did not know that LaunchCode may be interested in someone with my skill-set and remarked that "Yes, I am very interested in a job that would be performing similar evaluations to the one we just completed.".
+
+A couple of weeks pass, I graduate from UMSL, and I get an email from the individual that completed my LaunchCode evaluation stating that LaunchCode had just opened a new position and he thought I might be a good fit. I applied, interviewed, and landed the job. That's where my professional relationship with LaunchCode began and happy to say I have grown as an individual and professional. I was able to work on my original aspiration of **evaluating and hiring tech talent** directly and was able to create the guide for new Candidate Engagement Managers and advanced into working on entirely new problems for LaunchCode!
+
+{{% /expand %}}
+
 ### Linn State Technical College - A.A.S Computer Programming 2011
+
+Linn State is where I originally began my formal education in tech. I had a smattering of classes od programming and I learned a lot. However, I would say what I learned at LSTC has been far eclipsed in my time working as a professional programmer and in my time at LaunchCode.
 
 School name changed to State Technical College of Missouri in 2014.
 
