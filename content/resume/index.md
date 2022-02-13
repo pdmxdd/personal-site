@@ -158,3 +158,89 @@ Technologies:
 - Diesel
 - Tera Templates
 - MySQL
+
+## DREAM JOB
+
+I have an interest in many jobs related to technology and technical education. However, I am currently fascinated by a unique combination of my skills.
+
+In combining my technical skills (coding/Devops), with curriculum development, and teaching I can offer a unique service in the form of what I call a **teaching technologist**.
+
+{{% expand "Click here to see my ideas around the role and benefits of a teaching technologist" %}}
+
+I would spend 50% (negotiable) of my time working as a normal member of the tech team. Completing tasks assigned to me by the team lead or product manager. Assuming all responsibilities of any other team member.
+
+With the remaining 50% (negotiable) of my time I would document my journey in working through my sprint task(s) resulting in a written post-mortem of my work. 
+
+These writing would be I would then share this journey with my colleagues. I would additionally use the writings as onboarding materials for new team members a responsibility I would be heavily involved with.
+
+I envision a basic framework for the task post-mortem I would write:
+
+- task breakdown
+  - what problem will the work solve?
+- problem research
+  - how was the problem identified
+  - who is affected by the problem
+  - potential solution research
+    - has this problem been encountered before
+      - by members of the team
+      - by members of the company
+      - by individuals on the internet
+    - do any pre-built solutions currently exist
+    - what is would need to happen for a solution to be developed in house
+- solution selection decision
+  - viability of solution
+  - ease of implementation
+  - cost to company
+  - solution ability to be maintained
+- solution implementation
+  - what tests were written and why
+    - how do the tests prove the problem has been resolved
+  - necessary refactor?
+    - code quality
+      - best practices
+    - code optimization
+      - big O notation
+- code review
+  - what issues were identified
+  - was a refactor necessary after 
+    - if so how was the refactor tested and implemented
+    - did the changes pass the review?
+- integration of code into master/main/production branch
+  - merge strategy
+- deployment process
+  - on release schedule or immediate
+  - automated or manual
+    - CI/CD mechanisms of automated deployment
+
+I'm sure the framework would evolve over iterations, but is the base I would start my curriculum development around.
+
+### Benefits to Company
+
+I see this work as highly beneficial to companies with technical teams.
+
+Assuming the post-mortem is privately hosted:
+
+- learning opportunity for entire tech team
+- preserve often forgotten context surrounding problems and chosen solutions
+  - essentially offloading domain knowledge from specific individuals to a permanent repository controlled by the company
+- fantastic onboarding materials for new hires
+  - specific examples of previous work that has been performed
+  - provided framework for the process of contributing successfully
+- provide insight to the process of tech work to non technical individuals
+
+Additional benefits of the post-mortem being publicly hosted:
+
+- provide transparency to potential technical hires
+- provide guidance to currently learning individuals
+  - additional benefit of creating potential future hires
+- can be marketed
+
+### Benefits to Me
+
+I get to utilize many of the skills (programming, DevOps, writing, teaching, mentoring) I enjoy using professionally giving me a **sense of happiness** in my work.
+
+If the post-mortems are public, I will get to continue inspiring learners in their journey's through tech, giving me a **sense of fulfillment** in my work. 
+
+**If this type of work seems attractive to your company do not hesitate in [reaching out to me](mailto:paul@paulmatthews.dev). I would be very interested in discussing how this idea could be adapted into reality.**
+
+{{% /expand %}}
