@@ -2,7 +2,7 @@
 title: Resume
 draft: false
 date: 2022-02-10
-lastmod: 2022-02-11
+lastmod: 2022-02-13
 ---
 
 # Paul Matthews
@@ -116,7 +116,7 @@ LaunchCode advanced my application to their program and invited me to interview 
 
 He chuckled and remarked that I was looking for a job that is similar to what he is currently doing. I told him I did not know that LaunchCode may be interested in someone with my skill-set and remarked that "Yes, I am very interested in a job that would be performing similar evaluations to the one we just completed.".
 
-A couple of weeks pass, I graduate from UMSL, and I get an email from the individual that completed my LaunchCode evaluation stating that LaunchCode had just opened a new position and he thought I might be a good fit. I applied, interviewed, and landed the job. That's where my professional relationship with LaunchCode began and happy to say I have grown as an individual and professional. I was able to work on my original aspiration of **evaluating and hiring tech talent** directly and was able to create the guide for new Candidate Engagement Managers and advanced into working on entirely new problems for LaunchCode!
+A couple of weeks pass, I graduate from UMSL, and I get an email from the individual that completed my LaunchCode evaluation stating that LaunchCode had just opened a new position and he thought I might be a good fit. I applied, interviewed, and landed the job. That's where my professional relationship with LaunchCode began and I am happy to say I have grown as an individual and professional. I was able to work on my original aspiration of **evaluating and hiring tech talent** directly and was able to create the guide for new Candidate Engagement Managers. I eventually advanced into working on entirely new problems for LaunchCode!
 
 {{% /expand %}}
 
