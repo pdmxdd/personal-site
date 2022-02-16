@@ -62,7 +62,7 @@ An accomplished technologist, programmer, curriculum developer, and educator. Pa
   - Course staff management and mentoring
   - Student mentoring
   - Student success tracking
-  - Strong written and verbal communication skills)
+  - Strong written and verbal communication skills
 - Project Management
   - Project research
   - Project scoping
@@ -104,9 +104,9 @@ CodeCamp Instructor: Taught the pre-existing [Introduction to Web Development](h
 
 ### University of Missouri St. Louis - B.A. Psychology 2015
 
-I thoroughly enjoyed my time at UMSL. Originally my goal of going back to school after working as a programmer was two fold *to complete a bachelor's degree* and to *build knowledge/skills around successfully performing interviews*.
+I thoroughly enjoyed my time at UMSL. Originally my goal of going back to school after working as a programmer was twofold - *to complete a bachelor's degree* and to *build knowledge/skills around successfully performing interviews*.
 
-At the time my career aspirations were to combine my technical skills with my soft skills to work towards a solution many companies face **evaluating and hiring tech talent**. At the time my dream job was to work as a technical interviewer. Someone that could combine technical knowledge and skills with human resource knowledge and skills to more effectively evaluate candidates for technical positions. I was able to work towards a solution to this goal in my time at LaunchCode.
+At the time my career aspirations were to combine my technical skills with my soft skills to work towards a solution many companies face **evaluating and hiring tech talent**. At the time my dream job was to work as a technical interviewer. Someone that could combine technical knowledge and skills with human resource knowledge and skills to more effectively evaluate candidates for technical positions. I was able to work towards a realization of this goal in my time at LaunchCode.
 
 {{% expand "I was able to work directly towards my aspiration throughout my tenure at LaunchCode. Click here to expand/collapse the story of my transition from UMSL to LaunchCode." %}}
 
@@ -163,15 +163,13 @@ Technologies:
 
 I have an interest in many jobs related to technology and technical education. However, I am currently fascinated by a unique combination of my skills.
 
-In combining my technical skills (coding/Devops), with curriculum development, and teaching I can offer a unique service in the form of what I call a **teaching technologist**.
+In combining my technical skills (coding/Devops), with curriculum development, and teaching I can offer a unique service in the form of a **teaching technologist**.
 
 {{% expand "Click here to see my ideas around the role and benefits of a teaching technologist" %}}
 
-I would spend 50% (negotiable) of my time working as a normal member of the tech team. Completing tasks assigned to me by the team lead or product manager. Assuming all responsibilities of any other team member.
+I would spend 75% of my time as a normal member of the tech team, and 25% of my time documenting my work around the problems I have solved. This would result in curriculum that would capture the process of solving problems as a programmer or DevOps professional. 
 
-With the remaining 50% (negotiable) of my time I would document my journey in working through my sprint task(s) resulting in a written post-mortem of my work. 
-
-These writing would be I would then share this journey with my colleagues. I would additionally use the writings as onboarding materials for new team members a responsibility I would be heavily involved with.
+This curriculum would have a large number of benefits. I see it being especially valuable to recent hires early in their careers to see and actively work through solutions to various problems. The curriculum also serving as additional documentation that provides the *context* around the problem solving process serving as a powerful tool for sharing domain knowledge.
 
 I envision a basic framework for the task post-mortem I would write:
 
@@ -212,13 +210,13 @@ I envision a basic framework for the task post-mortem I would write:
   - automated or manual
     - CI/CD mechanisms of automated deployment
 
-I'm sure the framework would evolve over iterations, but is the base I would start my curriculum development around.
+The framework would certainly evolve as I grow into the role and learn the most effective pieces of data to collect and work into the written journey of problem solving.
 
 ### Benefits to Company
 
 I see this work as highly beneficial to companies with technical teams.
 
-Assuming the post-mortem is privately hosted:
+Assuming the post-mortem is privately hosted benefits include:
 
 - learning opportunity for entire tech team
 - preserve often forgotten context surrounding problems and chosen solutions
@@ -226,7 +224,7 @@ Assuming the post-mortem is privately hosted:
 - fantastic onboarding materials for new hires
   - specific examples of previous work that has been performed
   - provided framework for the process of contributing successfully
-- provide insight to the process of tech work to non technical individuals
+- provide insight into the process of tech work to non technical individuals
 
 Additional benefits of the post-mortem being publicly hosted:
 
@@ -237,9 +235,11 @@ Additional benefits of the post-mortem being publicly hosted:
 
 ### Benefits to Me
 
-I get to utilize many of the skills (programming, DevOps, writing, teaching, mentoring) I enjoy using professionally giving me a **sense of happiness** in my work.
+More than anything this type of role would allow me to continue growing technically. In my time at LaunchCode my tech skills have grown by leaps and bounds, but the majority of the coding projects I create are of the educational nature. I have a strong desire to directly contribute to a tech team.
 
-If the post-mortems are public, I will get to continue inspiring learners in their journey's through tech, giving me a **sense of fulfillment** in my work. 
+In addition I would get to utilize my many educational skills designing, writing, mentoring and teaching. Being able to continue using both of these skill-sets professionally will give me a **sense of happiness** in my work.
+
+Finally, being able to share my journey with others, especially to learners early in their journey's through tech, will give me a **sense of fulfillment** in my work.
 
 **If this type of work seems attractive to your company do not hesitate in [reaching out to me](mailto:paul@paulmatthews.dev). I would be very interested in discussing how this idea could be adapted into reality.**
 
