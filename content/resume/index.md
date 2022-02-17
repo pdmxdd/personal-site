@@ -18,44 +18,48 @@ An accomplished technologist, programmer, curriculum developer, and educator. Pa
 
 ## SKILLS
 
-- Programming
-  - Python/Flask/Fast API
-    - Flask
-    - Fast API
-    - Django
-  - Java
-    - Spring
+### Programming
+
+- Python
+  - Flask
+  - Fast API
+  - Django
+- Java
+  - Spring
+- Node
+  - Express
+- Component Based JavaScript Frameworks
+  - React
+  - Angular
+- Rust
+  - Rocket
+- C#
+- Git
+- Advocate of Coding Best Practices
+
+### Operations
+
+- Linux
+  - Debian
+  - CentOS
+  - Arch
+  - Currently running Pop_OS on my personal machine
+- Cloud Computing
+  - Most experienced with *AWS*
+      - AWS services: EC2, S3, IAM, VPC, SG, RDS, ELB, ECS, AWS CLI
+      - Azure services: VM, Key-Vault, SG, Azure CLI
+- CI/CD
+  - Jenkins
+  - Travis CI
+- Docker
+- Scripting
+  - Bash
+  - Powershell
+  - Python
   - Node
-    - Express
-  - Component Based JavaScript Frameworks
-    - React
-    - Angular
-  - Rust
-    - Rocket
-  - C#
-  - Git
-    - team `git rebase` unite!
-  - Advocate of Coding Best Practices
-- Operations
-  - Linux
-    - Debian
-    - CentOS
-    - Arch
-    - Currently running Pop_OS on my personal machine
-  - Cloud Computing
-    - More experience with *AWS* as it was the provider of choice for the GIS DevOps class I worked on for a couple of years
-        - AWS services: EC2, S3, IAM, VPC, SG, RDS, ELB, ECS, AWS CLI
-        - Azure services: VM, Key-Vault, SG, Azure CLI
-  - CI/CD
-    - Jenkins
-    - Travis CI
-  - Docker
-  - Scripting
-    - Bash
-    - Powershell
-    - Python
-    - Node
-- Education
+
+### Education
+
   - Curriculum design 
   - Curriculum development
   - Course instruction of classes of all sizes
@@ -63,7 +67,9 @@ An accomplished technologist, programmer, curriculum developer, and educator. Pa
   - Student mentoring
   - Student success tracking
   - Strong written and verbal communication skills
-- Project Management
+
+### Project Management
+
   - Project research
   - Project scoping
   - Timeline management
@@ -73,7 +79,7 @@ An accomplished technologist, programmer, curriculum developer, and educator. Pa
 
 ### LaunchCode
 
-All my titles in reverse chronological order.
+All titles in reverse chronological order.
 
 #### Director of Technical Training
 
@@ -89,11 +95,15 @@ CodeCamp Instructor: Taught the pre-existing [Introduction to Web Development](h
 
 #### Education Program Developer
 
+Work as a general member of the Education team to create high quality curriculum to meet the needs of LaunchCode general learners.
+
 ##### Major Projects
 
 [Liftoff](https://education.launchcode.org/liftoff/): Designed, built and taught an 8 week part-time program preparing students for technical interviews and strategies for continuing their technical education to better prepare for tech jobs. Program was built for graduates of the general LaunchCode Education programs as a way to bridge the gap between course end and starting a job in tech. The program has been incorporated into the standard process for general LaunchCode Education programs.
 
 #### Candidate Engagement Manager
+
+Evaluate and coach potential LaunchCode apprenticeship candidates and manage ongoing general education programs. I was the *first* person hired into this role and established the mold for the position.
 
 - Conducted over 1000 LaunchCode candidate interviews to determine candidate readiness for an apprenticeship at LaunchCode partner companies.
 - Redesigned candidate evaluation including interview script and new tech screen questions.
@@ -122,37 +132,71 @@ A couple of weeks pass, I graduate from UMSL, and I get an email from the indivi
 
 ### Linn State Technical College - A.A.S Computer Programming 2011
 
-Linn State is where I originally began my formal education in tech. I had a smattering of classes od programming and I learned a lot. However, I would say what I learned at LSTC has been far eclipsed in my time working as a professional programmer and in my time at LaunchCode.
+Linn State is where I originally began my formal education in tech. I had a smattering of classes on programming and I learned a lot. However, I would say what I learned at LSTC has been far eclipsed in my time working as a professional programmer and in my time at LaunchCode.
 
 School name changed to State Technical College of Missouri in 2014.
 
-## PERSONAL CODING PROJECTS
+## CODING PROJECTS
 
-### Expense Manager & Dashboard
+### Personal Website 
 
-Technologies:
-- Python
-  - Fast API
+*This* website! It will eventually become a place I can share personal projects that are not related to my professional dealings. For now it holds my resume and ways to get in touch with me. I look forward to updating this site with additional projects as I am constantly progressing with my own learning journey!
+
+#### Links
+
+- [Github repo](https://github.com/pdmxdd/personal-site)
+
+#### Technologies
+
+- Hugo
+  - markdown
+  - small amount of Go & Go templates
+- HTML/CSS
 - JavaScript
-  - React
-  - D3
-- Bash
-- PSQL
+- Caddy
+- DigitalOcean
+
 
 ### GIS DevOps Final Project
 
-Technologies:
+The project took various forms through the evolution of the program. The majority of the graduates built a version of the project using MVC (Zika Spring MVC). In the final cohort my co-instructor and I adapted the project to be discrete front end (Zika Client) and back end (Mapnotes API) projects while adding functionality.
+
+#### Links
+
+- Zika Spring MVC [Github repo](https://github.com/pdmxdd/zika-spring-mvc)
+- Zika Client [Github repo](https://github.com/pdmxdd/zika-client)
+- Mapnotes API [Github repo](https://github.com/pdmxdd/mapnotes-api)
+- [Project Requirements for students](https://education.launchcode.org/gis-devops/#project-requirements)
+
+#### Technologies
+
 - Java
   - Spring
 - HTML/CSS
-- Vanilla JavaScript
-- OpenLayers
+- JavaScript
+  - OpenLayers
 - PSQL
 - Elasticsearch
+- Docker
+- AWS
+  - S3
+  - EC2
+  - RDS
+  - many more
+- CI/CD
+  - Jenkins
 
 ### Expense Tracker
 
-Technologies:
+A project I put together after designing and building Liftoff. The project was intended to serve as a guide for Liftoff students as they begin working on their own personal projects. I chose a tech stack I had little experience with and built a project similar in nature to what graduates are expected to build. My colleague and partner on the Liftoff program also built a project. We documented our journeys as a guide for students.
+
+#### Links
+
+- [Github repo](https://github.com/pdmxdd/expense_tracker)
+- [Documented Journey](https://education.launchcode.org/liftoff/modules/demo-projects/expense-tracker/)
+
+#### Technologies
+
 - Rust
   - Rocket
 - Diesel
