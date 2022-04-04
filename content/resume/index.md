@@ -2,7 +2,7 @@
 title: Resume
 draft: false
 date: 2022-02-10
-lastmod: 2022-02-13
+lastmod: 2022-04-03
 ---
 
 # Paul Matthews
@@ -158,6 +158,21 @@ School name changed to State Technical College of Missouri in 2014.
 - Caddy
 - DigitalOcean
 
+### Explore Blog
+
+A learning through exploration blog I put together. I learn best by doing and create more effective curriculum when I have projects to share with students. My Explore Blog contain copy on various coding projects and the concepts & skills I learned along the way.
+
+I just started this blog, but have made significant progress into the first writeup about my [pylogger](https://explore.paulmatthews.dev/pylogger) ([GitHub repo](https://github.com/pdmxdd/pylogger)) project. It's a simple keystroke logger I built in Python using the pynput library.
+
+#### Links
+
+- [Explore Blog](https://explore.paulmatthews.dev)
+
+#### Technologies
+
+The content is again created with Hugo, so it's a similar stack to my personal website.
+
+The content of the blog also highlights some of my Python skills.
 
 ### GIS DevOps Final Project
 

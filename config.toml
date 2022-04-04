@@ -22,11 +22,11 @@ theme = ["nix", "paulmatthews"]
   #   name = "personal-projects"
   #   weight = 0
   #   url = "/projects/personal"
-  # [[menu.header]]
-  #   name = "learn"
-  #   weight = 0
-  #   url = "/learn"
   [[menu.header]]
     name = "resume"
-    weight = 0
+    weight = 1
     url = "/resume"
+  [[menu.header]]
+    name = "explore-blog"
+    weight = 0
+    url = "https://explore.paulmatthews.dev"
