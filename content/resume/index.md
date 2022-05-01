@@ -2,7 +2,7 @@
 title: Resume
 draft: false
 date: 2022-02-10
-lastmod: 2022-04-03
+lastmod: 2022-05-01
 ---
 
 # Paul Matthews
@@ -14,7 +14,7 @@ paul@paulmatthews.dev
 
 ## SUMMARY
 
-An accomplished technologist, programmer, curriculum developer, and educator. Passionate about solving any problems related to technology or technology education. Looking to continue deepening my existing technical skills and use those experiences as a way to continue empowering fellow technologists.
+An accomplished technologist, programmer, curriculum developer, and educator. Passionate about solving any problems related to technology or technology education. Looking to continue **deepening my existing technical skills** and use those experiences as a way to **continue empowering fellow technologists**.
 
 ## SKILLS
 
@@ -22,7 +22,7 @@ An accomplished technologist, programmer, curriculum developer, and educator. Pa
 
 - Python
   - Flask
-  - Fast API
+  - FastAPI
   - Django
 - Java
   - Spring
@@ -43,7 +43,7 @@ An accomplished technologist, programmer, curriculum developer, and educator. Pa
   - Debian
   - CentOS
   - Arch
-  - Currently running Pop_OS on my personal machine
+  - Currently running Pop_OS and Manjaro on my personal machines
 - Cloud Computing
   - Most experienced with *AWS*
       - AWS services: EC2, S3, IAM, VPC, SG, RDS, ELB, ECS, AWS CLI
@@ -83,11 +83,11 @@ All titles in reverse chronological order.
 
 #### Director of Technical Training
 
-Work with LaunchCode partnered companies to assess technical needs and design/build/teach curriculum to up-skill current partnered company employees.
+Work with LaunchCode partnered companies to assess technical needs and design/build/teach curriculum to up-skill partnered company employees.
 
 ##### Major Projects
 
-Current Project: [Linux](https://lctt-linux.netlify.app/): A program introducing major Linux concepts. Upon completing the course students will have a deep enough understanding of Linux to adequately deploy web products to a local Linux distribution. This program is the first of a few programs that when linked together will create a full introduction to DevOps. The program is being actively developed and after completion will be moved from its current staging server (Netlify) to a production server.
+Current Project: General DevOps Modules, collection of DevOps topics of interest to LaunchCode partner companies. The [Linux](https://launchcodetechnicaltraining.org/linux) module is in the pilot stage. A program introducing major Linux concepts. Upon completing the course students will have a deep enough understanding of Linux to adequately deploy web products to a local Linux distribution. This program is the first of a few programs that when linked together will create a full introduction to DevOps.
 
 CodeCamp Instructor: Taught the pre-existing [Introduction to Web Development](https://education.launchcode.org/intro-to-professional-web-dev/) & [Java Web Development](https://education.launchcode.org/java-web-development/) courses over 15 weeks full-time. All 31 students passed the course and were able to effectively work as entry level developers. Program was performed for Comcast in an opportunity to up-skill Comcast employees that had served as Service Technicians, or in Customer Service. In addition to student success, I also managed 3 Teaching Assistants to reach the large number of students effectively.
 
@@ -160,19 +160,59 @@ School name changed to State Technical College of Missouri in 2014.
 
 ### Explore Blog
 
-A learning through exploration blog I put together. I learn best by doing and create more effective curriculum when I have projects to share with students. My Explore Blog contain copy on various coding projects and the concepts & skills I learned along the way.
+A learning through exploration blog. I learn best by doing and create more effective curriculum when I have projects to share with students. My Explore Blog contain copy on various coding projects and the concepts & skills I learned along the way.
 
-I just started this blog, but have made significant progress into the first writeup about my [pylogger](https://explore.paulmatthews.dev/pylogger) ([GitHub repo](https://github.com/pdmxdd/pylogger)) project. It's a simple keystroke logger I built in Python using the pynput library.
+Overtime I will add more topics, but the first was the [pylogger](https://explore.paulmatthews.dev/pylogger) ([GitHub repo](https://github.com/pdmxdd/pylogger)) project. It's a simple keystroke logger I built in Python using the `pynput` library.
 
 #### Links
 
 - [Explore Blog](https://explore.paulmatthews.dev)
+- [GitHub Repo](https://github.com/pdmxdd/blog-explore)
 
 #### Technologies
 
-The content is again created with Hugo, so it's a similar stack to my personal website.
+The content is created with Hugo so it's a similar stack to my personal website.
 
-The content of the blog also highlights some of my Python skills.
+The content of the blog highlights many different skills as I continue on my own personal learning journey.
+
+### Random Data Generator & API
+
+A random data generator and API for providing datasets to learners.
+
+#### Links
+
+- [Live Swagger Docs](https://explore.paulmatthews.dev/api/docs)
+  - [ReDoc if you'd rather](https://explore.paulmatthews.dev/api/redoc)
+- [Request JSON of randomly generated User data](https://explore.paulmatthews.dev/api/random/users)
+- [API GitHub Repo](https://github.com/pdmxdd/py-random-data-generator-api)
+- [Generator GitHub Repo](https://github.com/pdmxdd/py-random-data-generator)
+
+#### Technologies
+
+- Python
+- Poetry
+- FastAPI
+- Faker
+- Caddy
+- Uvicorn
+- OpenAPI Spec
+
+### Expense Tracker
+
+A project I put together after designing and building Liftoff. The project was intended to serve as a guide for Liftoff students as they begin working on their own personal projects. I chose a tech stack I had little experience with and built a project similar in nature to what graduates are expected to build. My colleague and partner on the Liftoff program also built a project. We documented our journeys as a guide for students.
+
+#### Links
+
+- [Github repo](https://github.com/pdmxdd/expense_tracker)
+- [Documented Journey](https://education.launchcode.org/liftoff/modules/demo-projects/expense-tracker/)
+
+#### Technologies
+
+- Rust
+  - Rocket
+- Diesel
+- Tera Templates
+- MySQL
 
 ### GIS DevOps Final Project
 
@@ -203,23 +243,6 @@ The project took various forms through the evolution of the program. The majorit
 - CI/CD
   - Jenkins
 
-### Expense Tracker
-
-A project I put together after designing and building Liftoff. The project was intended to serve as a guide for Liftoff students as they begin working on their own personal projects. I chose a tech stack I had little experience with and built a project similar in nature to what graduates are expected to build. My colleague and partner on the Liftoff program also built a project. We documented our journeys as a guide for students.
-
-#### Links
-
-- [Github repo](https://github.com/pdmxdd/expense_tracker)
-- [Documented Journey](https://education.launchcode.org/liftoff/modules/demo-projects/expense-tracker/)
-
-#### Technologies
-
-- Rust
-  - Rocket
-- Diesel
-- Tera Templates
-- MySQL
-
 ## DREAM JOB
 
 I have an interest in many jobs related to technology and technical education. However, I am currently fascinated by a unique combination of my skills.
@@ -227,6 +250,8 @@ I have an interest in many jobs related to technology and technical education. H
 In combining my technical skills (coding/Devops), with curriculum development, and teaching I can offer a unique service in the form of a **teaching technologist**.
 
 {{% expand "Click here to see my ideas around the role and benefits of a teaching technologist" %}}
+
+**THIS IS A WORK IN PROGRESS**
 
 I would spend 75% of my time as a normal member of the tech team, and 25% of my time documenting my work around the problems I have solved. This would result in curriculum that would capture the process of solving problems as a programmer or DevOps professional. 
 
